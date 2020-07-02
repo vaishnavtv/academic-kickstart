@@ -69,7 +69,7 @@ user_groups:
 ---
 
 <!-- Vaishnav Tadiparthi is a graduate student at the Intelligent Systems Research Lab, Texas A&M University.  -->
-I'm a PhD student at the Department of Aerospace Engineering, Texas A&M University. I have been working with Dr. Raktim Bhattacharya at the Intelligent Systems Research Lab since the fall of 2017 over a variety of topics including tensegrity dynamics, convex optimization techniques, uncertain systems, and data-driven modeling.
+I'm a PhD student at the Department of Aerospace Engineering, Texas A&M University. I have been working with [Dr. Raktim Bhattacharya](https://engineering.tamu.edu/aerospace/profiles/rbhattacharya.html) at the Intelligent Systems Research Lab since the fall of 2017 over a variety of topics including tensegrity dynamics, convex optimization techniques, uncertain systems, and data-driven modeling.
 
 <!-- I received my Bachelor's and Master's degree together at the Indian Institute of Technology, Kharagpur.  -->
 <!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
